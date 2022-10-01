@@ -6,15 +6,20 @@
 
 
 # Install and Test Instructions
+
 Step 1: Git clone [Repo Link](https://github.com/dftjr/basic-express-server.git)
 
 Step 2: Install the nodes <code>npm i</code>
 
-Step 3: 
-
 Step 3: Run the tests <code>npm test</code>
 
-Step 4: Start the server <code>nodemon</code>
+Step 4: Check to see that the code is passing, should look the the following picture below:
+
+<img src="test.png" alt="Test Picture" width="300" height="100"/>
+
+Step 5: Set-up your .env PORT path to whatever you prefer
+
+Step 6: Start the server <code>nodemon</code>
 
 
 # Notes: Class 02 - Express Framework
