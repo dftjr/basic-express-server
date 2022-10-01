@@ -1,5 +1,4 @@
-# Heroku 
-
+# [Heroku Link](https://dftjr-basic-express-server.herokuapp.com/)
 
 
 # UML
@@ -7,7 +6,15 @@
 
 
 # Install and Test Instructions
+Step 1: Git clone [Repo Link](https://github.com/dftjr/basic-express-server.git)
 
+Step 2: Install the nodes <code>npm i</code>
+
+Step 3: 
+
+Step 3: Run the tests <code>npm test</code>
+
+Step 4: Start the server <code>nodemon</code>
 
 
 # Notes: Class 02 - Express Framework
